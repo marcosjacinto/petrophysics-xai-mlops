@@ -1,0 +1,4 @@
+outs:
+- md5: 541a7757fc3cefa23166321501a3164b
+  size: 84184
+  path: dts_model.h5

@@ -1,0 +1,4 @@
+outs:
+- md5: 34b96b696b0c7a5cfbfa4e8ae8489f50
+  size: 88832
+  path: y_test_dtc.npy

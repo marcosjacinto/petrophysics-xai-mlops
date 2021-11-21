@@ -2,7 +2,7 @@
 
 This project was developed by [Marcos Jacinto](https://www.linkedin.com/in/marcos-jacinto/).
 
-About this project
+## About this project
 __________
 
 Compressional and shear sonic traveltime logs (DTC and DTS, respectively) are crucial for subsurface characterization and seismic-well tie. However, these two logs are often missing or incomplete in many oil and gas wells. Therefore, many petrophysical and geophysical workflows include sonic log synthetization or pseudolog generation based on multivariate regression or rock physics relations.
@@ -18,12 +18,12 @@ Therefore, the objective of this project is to create a DTC prediction model wit
 *MLOps*: The term MLOps is defined as “the extension of the DevOps methodology to include Machine Learning and Data Science assets as first-class citizens within the DevOps ecology” Source: [MLOps SIG](https://github.com/cdfoundation/sig-mlops/blob/master/roadmap/2020/MLOpsRoadmap2020.md).
 
 
-The Data
+## The Data
 __________
 The data used by this project was provided by the SPWLA in its Machine Learning Contest (2020). The data contains the following logs: caliper, neutron porosity, gamma ray (GR), deep resistivity, medium resistivity, photoelectric factor, and bulk density, as well as two sonic logs (DTC and DTS) as the target. 
 
 
-How to
+## How to
 ___________
 
 Create a new environment. Then, use the following command in the terminal to install the requirements:

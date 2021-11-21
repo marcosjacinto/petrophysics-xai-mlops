@@ -45,7 +45,7 @@ def neural_network(x_train: np.ndarray) -> Sequential:
     model.add(Dense(32, activation="relu"))
     model.add(Dropout(rate=0.1))
 
-    # Fourth hidden layer
+    # Third hidden layer
     model.add(Dense(16, activation="relu"))
     model.add(Dropout(rate=0.1))
 

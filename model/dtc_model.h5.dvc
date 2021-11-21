@@ -1,0 +1,4 @@
+outs:
+- md5: 8e010a8b8fbf58c5b9c77abde11463e5
+  size: 84184
+  path: dtc_model.h5

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/marcos/cgg/petrophysics-xai-mlops/mlruns/3/dd5d4c26f06f48cfb3a4ddad8d30edd1/artifacts
+end_time: 1637358767070
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: dd5d4c26f06f48cfb3a4ddad8d30edd1
+run_uuid: dd5d4c26f06f48cfb3a4ddad8d30edd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637358584132
+status: 3
+tags: []
+user_id: marcos

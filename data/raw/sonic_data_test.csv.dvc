@@ -1,0 +1,4 @@
+outs:
+- md5: a57a77c596bc9a9ce7484e800b2c947f
+  size: 559879
+  path: sonic_data_test.csv

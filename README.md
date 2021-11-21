@@ -9,7 +9,7 @@ Compressional and shear sonic traveltime logs (DTC and DTS, respectively) are cr
 From March 1, 2020 to May 7, 2020, the SPWLA hosted a contest aiming to predict the DTC and DTS logs from seven conventional logs using machine-learning methods.
 Although the competitors got excellent results, their code and the requirements of the competition still showed a disconnect between data-driven methodologies in Geoscience and software engineering and development skills required to create real solutions.
 
-Therefore, the objective of this project is to create a DTC prediction model with Machine Learning using the same data provided by the SPWLA. MLOps and Explainable Artificial Intelligence techniques were included as part of the methdology. This was done in order to exemplify what is required from a data-driven solution in a software development environment 
+Therefore, the objective of this project is to create a DTC prediction model with Machine Learning using the same data provided by the SPWLA. MLOps and Explainable Artificial Intelligence (xAI) techniques were included as part of the methdology. This was done in order to exemplify what is required from a data-driven solution in a software development environment 
 
 
 *xAI*: XAI proposes the creation of a set of methodologies capable of producing explanations and promoting the interpretation of complex models such as deep neural networks while maintaining a high level of performance.
@@ -21,7 +21,7 @@ Therefore, the objective of this project is to create a DTC prediction model wit
 The data used by this project was provided by the SPWLA in its Machine Learning Contest (2020). The data contains the following logs: caliper, neutron porosity, gamma ray (GR), deep resistivity, medium resistivity, photoelectric factor, and bulk density, as well as two sonic logs (DTC and DTS) as the target. 
 
 
-## How to
+## How to reproduce
 
 Create a new environment. Then, use the following command in the terminal to install the requirements:
 
